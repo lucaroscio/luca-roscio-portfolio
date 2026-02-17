@@ -2,8 +2,11 @@
 
 Welcome to my professional portfolio.
 
-This repository showcases dashboards, SQL queries, datasets, and case studies created using **publicly available open datasets** or synthetic data.  
-No real company or operational data is used.
+This repository showcases dashboards, SQL queries, datasets, and case studies created using **publicly available open datasets**.  
+
+Links used:
+- https://datasetsearch.research.google.com/
+- https://www.kaggle.com/datasets
 
 The goal of this portfolio is to demonstrate some examples of:
 
