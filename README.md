@@ -24,5 +24,3 @@ sql/             → SQL & T‑SQL queries for reporting and analysis
 datasets/        → Sample datasets used for dashboards and queries
 case-studies/    → Mini‑projects describing analysis and improvements
 cv/              → ATS‑friendly CV (PDF or DOCX)
-
-
