@@ -5,7 +5,7 @@ Welcome to my professional portfolio.
 This repository showcases dashboards, SQL queries, datasets, and case studies created using **publicly available open datasets** or synthetic data.  
 No real company or operational data is used.
 
-The goal of this portfolio is to demonstrate my skills in:
+The goal of this portfolio is to demonstrate some examples of:
 
 - Data Analysis  
 - SQL & T‑SQL  
